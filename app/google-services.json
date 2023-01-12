@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1040399182473",
+    "project_id": "digital-journalism-8c048",
+    "storage_bucket": "digital-journalism-8c048.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040399182473:android:b3f829b5c1c181e675b458",
+        "android_client_info": {
+          "package_name": "com.example.digitaljournalism"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040399182473-qggepn6v7m6arnrkeql8h9puk8oo7gv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXIugQljHpw0FnwpxA9eTLSSOvqlT4_Rk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040399182473-qggepn6v7m6arnrkeql8h9puk8oo7gv8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
